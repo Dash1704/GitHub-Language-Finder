@@ -13,3 +13,11 @@ const getLanguage = async(user) => {
   return favouriteLanguage
 }
 
+const returnLanguage = async () => {
+  const out1 = document.getElementById('output1')
+  const userInput = document.getElementById('user').value
+  const languageOnScreen = getLanguage(userInput)
+  out1.innerText = await languageOnScreen
+}
+
+
