@@ -12,3 +12,4 @@ const getLanguage = async(user) => {
 
   return favouriteLanguage
 }
+
