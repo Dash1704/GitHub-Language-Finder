@@ -20,4 +20,4 @@ const returnLanguage = async () => {
   out1.innerText = await languageOnScreen
 }
 
-
+document.getElementById('btn1').addEventListener('click', returnLanguage)
