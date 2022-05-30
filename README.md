@@ -9,4 +9,4 @@ To use:
 - Enter a valid GitHub user name in the text box.
 - Click the well-worded button!
 
-![Screen Shot 2022-05-30 at 18 22 50](https://user-images.githubusercontent.com/93666673/171038004-22ddb5f8-faac-4780-8956-4979591da279.png)
+![Screen Shot 2022-05-30 at 18 33 02](https://user-images.githubusercontent.com/93666673/171039014-c23d38dd-8605-4193-9407-2f4e17b567d5.png)
